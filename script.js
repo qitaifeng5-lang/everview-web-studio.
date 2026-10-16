@@ -2,7 +2,10 @@
 // Add only verified live demo URLs and your Formspree /f/ endpoint here.
 const SITE_CONFIG = Object.freeze({
   formspreeEndpoint: '',
-  portfolio: { homedeer: '', cut: '' }
+portfolio: {
+  homedeer: 'https://homedeer.everviewstudio.com',
+  cut: 'https://cutstudio.everviewstudio.com'
+}
 });
 const menuButton = document.querySelector('.menu-toggle');
 const navigation = document.querySelector('#navigation');
