@@ -1,7 +1,7 @@
 'use strict';
 // Add only verified live demo URLs and your Formspree /f/ endpoint here.
 const SITE_CONFIG = Object.freeze({
-  formspreeEndpoint: '',
+  formspreeEndpoint: 'https://formspree.io/f/xrperwkn',
 portfolio: {
   homedeer: 'https://homedeer.everviewstudio.com',
   cut: 'https://cutstudio.everviewstudio.com'
